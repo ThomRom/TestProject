@@ -10,6 +10,8 @@ namespace TestApplication
         static void Main(string[] args)
         {
             //Added line in branch A
+
+            //added another line in A
         }
     }
 }
