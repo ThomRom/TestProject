@@ -14,6 +14,8 @@ namespace TestApplication
             //Added line in C
 
             //added another line in A
+
+            //Line added in extension B
         }
     }
 }
