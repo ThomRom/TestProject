@@ -12,6 +12,8 @@ namespace TestApplication
             //Added line --- in c ---- in branch A
 
             //Added line in C
+
+            //added another line in A
         }
     }
 }
