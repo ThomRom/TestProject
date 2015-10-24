@@ -29,5 +29,8 @@ namespace TestApplication
         void Feature_Y()
         { 
         }
+        void Feature_W()
+        { 
+        }
     }
 }
